@@ -1,0 +1,29 @@
+#include<iostream>
+#include<stack>
+#include<vector>
+using namespace std;
+int main(){
+    
+        vector<int>nums={6,8,0,1,3};    
+        stack<int>ng;
+        int n=nums.size();
+        vector<int>ans(n);
+        for(int i=n-1;i>=0;i--){
+
+            while(ng.size()>0 && ng.top()<=nums[i]){
+                ng.pop();
+            }
+            
+            if(ng.empty()){
+                ans[i]=-1;
+            }else{
+                ans[i]=ng.top();
+                
+            }
+            ng.push(nums[i]);
+        }
+        for(int i:ans){
+        cout<<i<<" ";
+        }
+    return 0;
+}
