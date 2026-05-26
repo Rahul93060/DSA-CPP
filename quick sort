@@ -1,0 +1,38 @@
+#include<iostream>
+#include<vector>
+using namespace std;
+int part(vector<int>&arr,int st,int end){
+        int idx=st-1;
+        int pivot=arr[end];
+        for(int i=st;i<end;i++){
+            if(arr[i]<=pivot){
+                idx++;
+                swap(arr[idx],arr[i]);
+
+            }
+        }
+        idx++;
+        swap(arr[idx],arr[end]);
+        return idx;
+}
+
+void qs(vector<int>&arr,int st,int end){
+
+    if(st<end){
+        int idx=part(arr,st,end);
+        qs(arr,st,idx-1);
+        qs(arr,idx+1,end);
+
+    }
+}
+
+int main(){
+    vector<int>arr={3,4,5,2,1};
+    int n=arr.size()-1;
+    qs(arr,0,n);
+
+    for(int i:arr){
+        cout<<i<<" ";
+    }
+
+}
