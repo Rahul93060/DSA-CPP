@@ -63,6 +63,7 @@
 | [0162-find-peak-element](https://github.com/Rahul93060/DSA-CPP/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/Rahul93060/DSA-CPP/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Rahul93060/DSA-CPP/tree/master/0268-missing-number) |
+| [0485-max-consecutive-ones](https://github.com/Rahul93060/DSA-CPP/tree/master/0485-max-consecutive-ones) |
 ## Binary Search
 |  |
 | ------- |
