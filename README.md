@@ -20,22 +20,26 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Rahul93060/DSA-CPP/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Rahul93060/DSA-CPP/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Rahul93060/DSA-CPP/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Rahul93060/DSA-CPP/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Rahul93060/DSA-CPP/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Rahul93060/DSA-CPP/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Rahul93060/DSA-CPP/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Rahul93060/DSA-CPP/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Rahul93060/DSA-CPP/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Rahul93060/DSA-CPP/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Rahul93060/DSA-CPP/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Rahul93060/DSA-CPP/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Rahul93060/DSA-CPP/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Rahul93060/DSA-CPP/tree/master/0572-subtree-of-another-tree) |
 ## String Matching
