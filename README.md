@@ -99,4 +99,12 @@
 |  |
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/Rahul93060/DSA-CPP/tree/master/2390-removing-stars-from-a-string) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Rahul93060/DSA-CPP/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Rahul93060/DSA-CPP/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
