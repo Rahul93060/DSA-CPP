@@ -61,6 +61,7 @@
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rahul93060/DSA-CPP/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Rahul93060/DSA-CPP/tree/master/0035-search-insert-position) |
+| [0055-jump-game](https://github.com/Rahul93060/DSA-CPP/tree/master/0055-jump-game) |
 | [0136-single-number](https://github.com/Rahul93060/DSA-CPP/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Rahul93060/DSA-CPP/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/Rahul93060/DSA-CPP/tree/master/0217-contains-duplicate) |
@@ -107,4 +108,12 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Rahul93060/DSA-CPP/tree/master/0206-reverse-linked-list) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/Rahul93060/DSA-CPP/tree/master/0055-jump-game) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/Rahul93060/DSA-CPP/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
