@@ -65,6 +65,7 @@
 | [0055-jump-game](https://github.com/Rahul93060/DSA-CPP/tree/master/0055-jump-game) |
 | [0136-single-number](https://github.com/Rahul93060/DSA-CPP/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Rahul93060/DSA-CPP/tree/master/0162-find-peak-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/Rahul93060/DSA-CPP/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Rahul93060/DSA-CPP/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Rahul93060/DSA-CPP/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Rahul93060/DSA-CPP/tree/master/0485-max-consecutive-ones) |
@@ -76,6 +77,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rahul93060/DSA-CPP/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Rahul93060/DSA-CPP/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/Rahul93060/DSA-CPP/tree/master/0162-find-peak-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/Rahul93060/DSA-CPP/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Rahul93060/DSA-CPP/tree/master/0268-missing-number) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Rahul93060/DSA-CPP/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Hash Table
@@ -119,4 +121,12 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/Rahul93060/DSA-CPP/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Rahul93060/DSA-CPP/tree/master/0055-jump-game) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Rahul93060/DSA-CPP/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Rahul93060/DSA-CPP/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
