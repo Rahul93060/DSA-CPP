@@ -102,6 +102,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Rahul93060/DSA-CPP/tree/master/0268-missing-number) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Rahul93060/DSA-CPP/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Simulation
 |  |
 | ------- |
