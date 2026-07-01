@@ -67,6 +67,7 @@
 | [0162-find-peak-element](https://github.com/Rahul93060/DSA-CPP/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/Rahul93060/DSA-CPP/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/Rahul93060/DSA-CPP/tree/master/0209-minimum-size-subarray-sum) |
+| [0213-house-robber-ii](https://github.com/Rahul93060/DSA-CPP/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/Rahul93060/DSA-CPP/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Rahul93060/DSA-CPP/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Rahul93060/DSA-CPP/tree/master/0485-max-consecutive-ones) |
@@ -118,6 +119,7 @@
 | [0045-jump-game-ii](https://github.com/Rahul93060/DSA-CPP/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Rahul93060/DSA-CPP/tree/master/0055-jump-game) |
 | [0198-house-robber](https://github.com/Rahul93060/DSA-CPP/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/Rahul93060/DSA-CPP/tree/master/0213-house-robber-ii) |
 ## Greedy
 |  |
 | ------- |
