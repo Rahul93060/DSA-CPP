@@ -4,8 +4,8 @@ public:
         int n=nums.size();
         // sort(nums.begin(),nums.end());
         // return (nums[n-1]* nums[n-2]) - (nums[0] * nums[1]);
-        int a=INT_MIN;
-        int b=INT_MIN;
+        int a=0;
+        int b=0;
         int c=INT_MAX;
         int d=INT_MAX;
         for(int x:nums){
