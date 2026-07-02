@@ -74,6 +74,7 @@
 | [0268-missing-number](https://github.com/Rahul93060/DSA-CPP/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/Rahul93060/DSA-CPP/tree/master/0322-coin-change) |
 | [0485-max-consecutive-ones](https://github.com/Rahul93060/DSA-CPP/tree/master/0485-max-consecutive-ones) |
+| [0746-min-cost-climbing-stairs](https://github.com/Rahul93060/DSA-CPP/tree/master/0746-min-cost-climbing-stairs) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Rahul93060/DSA-CPP/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2057-smallest-index-with-equal-value](https://github.com/Rahul93060/DSA-CPP/tree/master/2057-smallest-index-with-equal-value) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Rahul93060/DSA-CPP/tree/master/2226-maximum-candies-allocated-to-k-children) |
@@ -127,6 +128,7 @@
 | [0198-house-robber](https://github.com/Rahul93060/DSA-CPP/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Rahul93060/DSA-CPP/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/Rahul93060/DSA-CPP/tree/master/0322-coin-change) |
+| [0746-min-cost-climbing-stairs](https://github.com/Rahul93060/DSA-CPP/tree/master/0746-min-cost-climbing-stairs) |
 ## Greedy
 |  |
 | ------- |
