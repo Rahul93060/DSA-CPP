@@ -58,6 +58,7 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Rahul93060/DSA-CPP/tree/master/0572-subtree-of-another-tree) |
+| [1143-longest-common-subsequence](https://github.com/Rahul93060/DSA-CPP/tree/master/1143-longest-common-subsequence) |
 | [2390-removing-stars-from-a-string](https://github.com/Rahul93060/DSA-CPP/tree/master/2390-removing-stars-from-a-string) |
 ## Hash Function
 |  |
@@ -137,6 +138,7 @@
 | [0213-house-robber-ii](https://github.com/Rahul93060/DSA-CPP/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/Rahul93060/DSA-CPP/tree/master/0322-coin-change) |
 | [0746-min-cost-climbing-stairs](https://github.com/Rahul93060/DSA-CPP/tree/master/0746-min-cost-climbing-stairs) |
+| [1143-longest-common-subsequence](https://github.com/Rahul93060/DSA-CPP/tree/master/1143-longest-common-subsequence) |
 ## Greedy
 |  |
 | ------- |
