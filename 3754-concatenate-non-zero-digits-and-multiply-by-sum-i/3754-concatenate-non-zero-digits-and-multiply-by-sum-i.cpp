@@ -8,7 +8,8 @@ public:
             int h=n%10; 
             sum=sum+h;
             if(h!=0){
-                num=num+h* pow(10,count++);
+                num=num+h* pow(10,count);
+                count++;
             }
             n=n/10;
         }
