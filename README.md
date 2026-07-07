@@ -124,6 +124,7 @@
 | [0268-missing-number](https://github.com/Rahul93060/DSA-CPP/tree/master/0268-missing-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Rahul93060/DSA-CPP/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Rahul93060/DSA-CPP/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Rahul93060/DSA-CPP/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Simulation
 |  |
 | ------- |
