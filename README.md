@@ -4,6 +4,7 @@
 ## Stack
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Rahul93060/DSA-CPP/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/Rahul93060/DSA-CPP/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Rahul93060/DSA-CPP/tree/master/0232-implement-queue-using-stacks) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Rahul93060/DSA-CPP/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -11,6 +12,7 @@
 ## Design
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Rahul93060/DSA-CPP/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/Rahul93060/DSA-CPP/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Rahul93060/DSA-CPP/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
@@ -26,6 +28,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rahul93060/DSA-CPP/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Rahul93060/DSA-CPP/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Rahul93060/DSA-CPP/tree/master/0112-path-sum) |
+| [0173-binary-search-tree-iterator](https://github.com/Rahul93060/DSA-CPP/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Rahul93060/DSA-CPP/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Rahul93060/DSA-CPP/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Rahul93060/DSA-CPP/tree/master/0543-diameter-of-binary-tree) |
@@ -59,6 +62,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rahul93060/DSA-CPP/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Rahul93060/DSA-CPP/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Rahul93060/DSA-CPP/tree/master/0112-path-sum) |
+| [0173-binary-search-tree-iterator](https://github.com/Rahul93060/DSA-CPP/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Rahul93060/DSA-CPP/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Rahul93060/DSA-CPP/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Rahul93060/DSA-CPP/tree/master/0543-diameter-of-binary-tree) |
@@ -172,6 +176,7 @@
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Rahul93060/DSA-CPP/tree/master/0099-recover-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/Rahul93060/DSA-CPP/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Rahul93060/DSA-CPP/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Rahul93060/DSA-CPP/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Rahul93060/DSA-CPP/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -179,4 +184,8 @@
 |  |
 | ------- |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Rahul93060/DSA-CPP/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Rahul93060/DSA-CPP/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
