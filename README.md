@@ -31,6 +31,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/Rahul93060/DSA-CPP/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Rahul93060/DSA-CPP/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Rahul93060/DSA-CPP/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Rahul93060/DSA-CPP/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Rahul93060/DSA-CPP/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Rahul93060/DSA-CPP/tree/master/0572-subtree-of-another-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Rahul93060/DSA-CPP/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -45,6 +46,7 @@
 | [0112-path-sum](https://github.com/Rahul93060/DSA-CPP/tree/master/0112-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Rahul93060/DSA-CPP/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Rahul93060/DSA-CPP/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Rahul93060/DSA-CPP/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Rahul93060/DSA-CPP/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Rahul93060/DSA-CPP/tree/master/0572-subtree-of-another-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Rahul93060/DSA-CPP/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -56,6 +58,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/Rahul93060/DSA-CPP/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Rahul93060/DSA-CPP/tree/master/0112-path-sum) |
 | [0322-coin-change](https://github.com/Rahul93060/DSA-CPP/tree/master/0322-coin-change) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Rahul93060/DSA-CPP/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Rahul93060/DSA-CPP/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Tree
 |  |
@@ -68,6 +71,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/Rahul93060/DSA-CPP/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Rahul93060/DSA-CPP/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Rahul93060/DSA-CPP/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Rahul93060/DSA-CPP/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Rahul93060/DSA-CPP/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Rahul93060/DSA-CPP/tree/master/0572-subtree-of-another-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Rahul93060/DSA-CPP/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -183,6 +187,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/Rahul93060/DSA-CPP/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Rahul93060/DSA-CPP/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Rahul93060/DSA-CPP/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Rahul93060/DSA-CPP/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Rahul93060/DSA-CPP/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Rahul93060/DSA-CPP/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Monotonic Stack
