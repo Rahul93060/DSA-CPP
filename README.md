@@ -20,6 +20,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Rahul93060/DSA-CPP/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Rahul93060/DSA-CPP/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/Rahul93060/DSA-CPP/tree/master/0387-first-unique-character-in-a-string) |
 ## Tree
 |  |
 | ------- |
@@ -81,6 +82,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Rahul93060/DSA-CPP/tree/master/0387-first-unique-character-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/Rahul93060/DSA-CPP/tree/master/0572-subtree-of-another-tree) |
 | [1143-longest-common-subsequence](https://github.com/Rahul93060/DSA-CPP/tree/master/1143-longest-common-subsequence) |
 | [2390-removing-stars-from-a-string](https://github.com/Rahul93060/DSA-CPP/tree/master/2390-removing-stars-from-a-string) |
@@ -125,6 +127,7 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/Rahul93060/DSA-CPP/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Rahul93060/DSA-CPP/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/Rahul93060/DSA-CPP/tree/master/0387-first-unique-character-in-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -206,4 +209,8 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Rahul93060/DSA-CPP/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Rahul93060/DSA-CPP/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
