@@ -109,6 +109,7 @@
 | [0322-coin-change](https://github.com/Rahul93060/DSA-CPP/tree/master/0322-coin-change) |
 | [0485-max-consecutive-ones](https://github.com/Rahul93060/DSA-CPP/tree/master/0485-max-consecutive-ones) |
 | [0746-min-cost-climbing-stairs](https://github.com/Rahul93060/DSA-CPP/tree/master/0746-min-cost-climbing-stairs) |
+| [0877-stone-game](https://github.com/Rahul93060/DSA-CPP/tree/master/0877-stone-game) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Rahul93060/DSA-CPP/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Rahul93060/DSA-CPP/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2057-smallest-index-with-equal-value](https://github.com/Rahul93060/DSA-CPP/tree/master/2057-smallest-index-with-equal-value) |
@@ -144,6 +145,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Rahul93060/DSA-CPP/tree/master/0268-missing-number) |
+| [0877-stone-game](https://github.com/Rahul93060/DSA-CPP/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Rahul93060/DSA-CPP/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Rahul93060/DSA-CPP/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Rahul93060/DSA-CPP/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -168,6 +170,7 @@
 | [0213-house-robber-ii](https://github.com/Rahul93060/DSA-CPP/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/Rahul93060/DSA-CPP/tree/master/0322-coin-change) |
 | [0746-min-cost-climbing-stairs](https://github.com/Rahul93060/DSA-CPP/tree/master/0746-min-cost-climbing-stairs) |
+| [0877-stone-game](https://github.com/Rahul93060/DSA-CPP/tree/master/0877-stone-game) |
 | [1143-longest-common-subsequence](https://github.com/Rahul93060/DSA-CPP/tree/master/1143-longest-common-subsequence) |
 ## Greedy
 |  |
@@ -213,4 +216,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Rahul93060/DSA-CPP/tree/master/0387-first-unique-character-in-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Rahul93060/DSA-CPP/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
