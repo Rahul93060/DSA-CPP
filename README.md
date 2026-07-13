@@ -220,4 +220,8 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Rahul93060/DSA-CPP/tree/master/0877-stone-game) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/Rahul93060/DSA-CPP/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
