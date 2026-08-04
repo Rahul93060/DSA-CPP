@@ -84,6 +84,7 @@
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Rahul93060/DSA-CPP/tree/master/0387-first-unique-character-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/Rahul93060/DSA-CPP/tree/master/0572-subtree-of-another-tree) |
+| [1108-defanging-an-ip-address](https://github.com/Rahul93060/DSA-CPP/tree/master/1108-defanging-an-ip-address) |
 | [1143-longest-common-subsequence](https://github.com/Rahul93060/DSA-CPP/tree/master/1143-longest-common-subsequence) |
 | [2390-removing-stars-from-a-string](https://github.com/Rahul93060/DSA-CPP/tree/master/2390-removing-stars-from-a-string) |
 ## Hash Function
