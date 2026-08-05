@@ -84,6 +84,7 @@
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Rahul93060/DSA-CPP/tree/master/0387-first-unique-character-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/Rahul93060/DSA-CPP/tree/master/0572-subtree-of-another-tree) |
+| [0796-rotate-string](https://github.com/Rahul93060/DSA-CPP/tree/master/0796-rotate-string) |
 | [1108-defanging-an-ip-address](https://github.com/Rahul93060/DSA-CPP/tree/master/1108-defanging-an-ip-address) |
 | [1143-longest-common-subsequence](https://github.com/Rahul93060/DSA-CPP/tree/master/1143-longest-common-subsequence) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Rahul93060/DSA-CPP/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
