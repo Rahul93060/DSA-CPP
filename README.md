@@ -82,6 +82,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/Rahul93060/DSA-CPP/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Rahul93060/DSA-CPP/tree/master/0387-first-unique-character-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/Rahul93060/DSA-CPP/tree/master/0572-subtree-of-another-tree) |
 | [0796-rotate-string](https://github.com/Rahul93060/DSA-CPP/tree/master/0796-rotate-string) |
@@ -195,6 +196,7 @@
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Rahul93060/DSA-CPP/tree/master/0031-next-permutation) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Rahul93060/DSA-CPP/tree/master/0345-reverse-vowels-of-a-string) |
 ## Binary Search Tree
 |  |
 | ------- |
