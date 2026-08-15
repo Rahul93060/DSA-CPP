@@ -82,6 +82,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Rahul93060/DSA-CPP/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Rahul93060/DSA-CPP/tree/master/0013-roman-to-integer) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Rahul93060/DSA-CPP/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Rahul93060/DSA-CPP/tree/master/0387-first-unique-character-in-a-string) |
@@ -137,6 +138,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Rahul93060/DSA-CPP/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Rahul93060/DSA-CPP/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/Rahul93060/DSA-CPP/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Rahul93060/DSA-CPP/tree/master/0268-missing-number) |
@@ -160,6 +162,7 @@
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Rahul93060/DSA-CPP/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Rahul93060/DSA-CPP/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/Rahul93060/DSA-CPP/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/Rahul93060/DSA-CPP/tree/master/0415-add-strings) |
