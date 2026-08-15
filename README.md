@@ -93,6 +93,7 @@
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Rahul93060/DSA-CPP/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/Rahul93060/DSA-CPP/tree/master/1859-sorting-the-sentence) |
 | [2390-removing-stars-from-a-string](https://github.com/Rahul93060/DSA-CPP/tree/master/2390-removing-stars-from-a-string) |
+| [2785-sort-vowels-in-a-string](https://github.com/Rahul93060/DSA-CPP/tree/master/2785-sort-vowels-in-a-string) |
 ## Hash Function
 |  |
 | ------- |
@@ -146,6 +147,7 @@
 | [0268-missing-number](https://github.com/Rahul93060/DSA-CPP/tree/master/0268-missing-number) |
 | [1859-sorting-the-sentence](https://github.com/Rahul93060/DSA-CPP/tree/master/1859-sorting-the-sentence) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Rahul93060/DSA-CPP/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [2785-sort-vowels-in-a-string](https://github.com/Rahul93060/DSA-CPP/tree/master/2785-sort-vowels-in-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
