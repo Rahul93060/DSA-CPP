@@ -8,6 +8,7 @@
 | [0225-implement-stack-using-queues](https://github.com/Rahul93060/DSA-CPP/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Rahul93060/DSA-CPP/tree/master/0232-implement-queue-using-stacks) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Rahul93060/DSA-CPP/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Rahul93060/DSA-CPP/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2390-removing-stars-from-a-string](https://github.com/Rahul93060/DSA-CPP/tree/master/2390-removing-stars-from-a-string) |
 ## Design
 |  |
@@ -91,6 +92,7 @@
 | [0415-add-strings](https://github.com/Rahul93060/DSA-CPP/tree/master/0415-add-strings) |
 | [0572-subtree-of-another-tree](https://github.com/Rahul93060/DSA-CPP/tree/master/0572-subtree-of-another-tree) |
 | [0796-rotate-string](https://github.com/Rahul93060/DSA-CPP/tree/master/0796-rotate-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Rahul93060/DSA-CPP/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1108-defanging-an-ip-address](https://github.com/Rahul93060/DSA-CPP/tree/master/1108-defanging-an-ip-address) |
 | [1143-longest-common-subsequence](https://github.com/Rahul93060/DSA-CPP/tree/master/1143-longest-common-subsequence) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Rahul93060/DSA-CPP/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -202,6 +204,7 @@
 | [0045-jump-game-ii](https://github.com/Rahul93060/DSA-CPP/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Rahul93060/DSA-CPP/tree/master/0055-jump-game) |
 | [0409-longest-palindrome](https://github.com/Rahul93060/DSA-CPP/tree/master/0409-longest-palindrome) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Rahul93060/DSA-CPP/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Sliding Window
 |  |
 | ------- |
@@ -231,6 +234,7 @@
 |  |
 | ------- |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Rahul93060/DSA-CPP/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Rahul93060/DSA-CPP/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Iterator
 |  |
 | ------- |
