@@ -86,6 +86,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rahul93060/DSA-CPP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Rahul93060/DSA-CPP/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Rahul93060/DSA-CPP/tree/master/0013-roman-to-integer) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rahul93060/DSA-CPP/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Rahul93060/DSA-CPP/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Rahul93060/DSA-CPP/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Rahul93060/DSA-CPP/tree/master/0409-longest-palindrome) |
@@ -217,6 +218,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rahul93060/DSA-CPP/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Rahul93060/DSA-CPP/tree/master/0031-next-permutation) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Rahul93060/DSA-CPP/tree/master/0345-reverse-vowels-of-a-string) |
 ## Binary Search Tree
@@ -259,4 +261,16 @@
 |  |
 | ------- |
 | [1859-sorting-the-sentence](https://github.com/Rahul93060/DSA-CPP/tree/master/1859-sorting-the-sentence) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rahul93060/DSA-CPP/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rahul93060/DSA-CPP/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rahul93060/DSA-CPP/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
