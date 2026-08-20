@@ -92,6 +92,7 @@
 | [0409-longest-palindrome](https://github.com/Rahul93060/DSA-CPP/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/Rahul93060/DSA-CPP/tree/master/0415-add-strings) |
 | [0572-subtree-of-another-tree](https://github.com/Rahul93060/DSA-CPP/tree/master/0572-subtree-of-another-tree) |
+| [0686-repeated-string-match](https://github.com/Rahul93060/DSA-CPP/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/Rahul93060/DSA-CPP/tree/master/0796-rotate-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Rahul93060/DSA-CPP/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1108-defanging-an-ip-address](https://github.com/Rahul93060/DSA-CPP/tree/master/1108-defanging-an-ip-address) |
@@ -265,12 +266,15 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rahul93060/DSA-CPP/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0686-repeated-string-match](https://github.com/Rahul93060/DSA-CPP/tree/master/0686-repeated-string-match) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rahul93060/DSA-CPP/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0686-repeated-string-match](https://github.com/Rahul93060/DSA-CPP/tree/master/0686-repeated-string-match) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rahul93060/DSA-CPP/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0686-repeated-string-match](https://github.com/Rahul93060/DSA-CPP/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
