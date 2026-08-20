@@ -131,6 +131,7 @@
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Rahul93060/DSA-CPP/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2057-smallest-index-with-equal-value](https://github.com/Rahul93060/DSA-CPP/tree/master/2057-smallest-index-with-equal-value) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Rahul93060/DSA-CPP/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Rahul93060/DSA-CPP/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -181,6 +182,7 @@
 | ------- |
 | [0415-add-strings](https://github.com/Rahul93060/DSA-CPP/tree/master/0415-add-strings) |
 | [2390-removing-stars-from-a-string](https://github.com/Rahul93060/DSA-CPP/tree/master/2390-removing-stars-from-a-string) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Rahul93060/DSA-CPP/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Linked List
 |  |
 | ------- |
