@@ -127,6 +127,7 @@
 | [0217-contains-duplicate](https://github.com/Rahul93060/DSA-CPP/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Rahul93060/DSA-CPP/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/Rahul93060/DSA-CPP/tree/master/0322-coin-change) |
+| [0349-intersection-of-two-arrays](https://github.com/Rahul93060/DSA-CPP/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Rahul93060/DSA-CPP/tree/master/0485-max-consecutive-ones) |
 | [0746-min-cost-climbing-stairs](https://github.com/Rahul93060/DSA-CPP/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Rahul93060/DSA-CPP/tree/master/0877-stone-game) |
@@ -144,6 +145,7 @@
 | [0162-find-peak-element](https://github.com/Rahul93060/DSA-CPP/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Rahul93060/DSA-CPP/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Rahul93060/DSA-CPP/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Rahul93060/DSA-CPP/tree/master/0349-intersection-of-two-arrays) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Rahul93060/DSA-CPP/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Hash Table
 |  |
@@ -153,6 +155,7 @@
 | [0013-roman-to-integer](https://github.com/Rahul93060/DSA-CPP/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/Rahul93060/DSA-CPP/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Rahul93060/DSA-CPP/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Rahul93060/DSA-CPP/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Rahul93060/DSA-CPP/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Rahul93060/DSA-CPP/tree/master/0409-longest-palindrome) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Rahul93060/DSA-CPP/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -161,6 +164,7 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/Rahul93060/DSA-CPP/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Rahul93060/DSA-CPP/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Rahul93060/DSA-CPP/tree/master/0349-intersection-of-two-arrays) |
 | [1859-sorting-the-sentence](https://github.com/Rahul93060/DSA-CPP/tree/master/1859-sorting-the-sentence) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Rahul93060/DSA-CPP/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2785-sort-vowels-in-a-string](https://github.com/Rahul93060/DSA-CPP/tree/master/2785-sort-vowels-in-a-string) |
@@ -231,6 +235,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rahul93060/DSA-CPP/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Rahul93060/DSA-CPP/tree/master/0031-next-permutation) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Rahul93060/DSA-CPP/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Rahul93060/DSA-CPP/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search Tree
 |  |
 | ------- |
