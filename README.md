@@ -117,6 +117,7 @@
 | [0035-search-insert-position](https://github.com/Rahul93060/DSA-CPP/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/Rahul93060/DSA-CPP/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Rahul93060/DSA-CPP/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/Rahul93060/DSA-CPP/tree/master/0066-plus-one) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Rahul93060/DSA-CPP/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rahul93060/DSA-CPP/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/Rahul93060/DSA-CPP/tree/master/0136-single-number) |
@@ -183,6 +184,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/Rahul93060/DSA-CPP/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Rahul93060/DSA-CPP/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/Rahul93060/DSA-CPP/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/Rahul93060/DSA-CPP/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/Rahul93060/DSA-CPP/tree/master/0415-add-strings) |
 | [0877-stone-game](https://github.com/Rahul93060/DSA-CPP/tree/master/0877-stone-game) |
