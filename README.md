@@ -116,6 +116,7 @@
 | [0031-next-permutation](https://github.com/Rahul93060/DSA-CPP/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rahul93060/DSA-CPP/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Rahul93060/DSA-CPP/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/Rahul93060/DSA-CPP/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/Rahul93060/DSA-CPP/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Rahul93060/DSA-CPP/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Rahul93060/DSA-CPP/tree/master/0066-plus-one) |
@@ -158,6 +159,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rahul93060/DSA-CPP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Rahul93060/DSA-CPP/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Rahul93060/DSA-CPP/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/Rahul93060/DSA-CPP/tree/master/0036-valid-sudoku) |
 | [0217-contains-duplicate](https://github.com/Rahul93060/DSA-CPP/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Rahul93060/DSA-CPP/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Rahul93060/DSA-CPP/tree/master/0349-intersection-of-two-arrays) |
@@ -300,4 +302,8 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rahul93060/DSA-CPP/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/Rahul93060/DSA-CPP/tree/master/0686-repeated-string-match) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/Rahul93060/DSA-CPP/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
