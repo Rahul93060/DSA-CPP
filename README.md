@@ -136,6 +136,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/Rahul93060/DSA-CPP/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Rahul93060/DSA-CPP/tree/master/0877-stone-game) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Rahul93060/DSA-CPP/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Rahul93060/DSA-CPP/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Rahul93060/DSA-CPP/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Rahul93060/DSA-CPP/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2057-smallest-index-with-equal-value](https://github.com/Rahul93060/DSA-CPP/tree/master/2057-smallest-index-with-equal-value) |
@@ -193,6 +194,7 @@
 | [0415-add-strings](https://github.com/Rahul93060/DSA-CPP/tree/master/0415-add-strings) |
 | [0877-stone-game](https://github.com/Rahul93060/DSA-CPP/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Rahul93060/DSA-CPP/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Rahul93060/DSA-CPP/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Rahul93060/DSA-CPP/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Rahul93060/DSA-CPP/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Simulation
