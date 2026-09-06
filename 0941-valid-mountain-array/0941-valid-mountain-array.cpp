@@ -15,10 +15,8 @@ public:
         while(i+1<n && arr[i]>arr[i+1]){
             i++;
         }
-        if(i==n-1){
-            return true;
-        }
         
-        return false;
+        
+        return  i==n-1;
     }
 };
