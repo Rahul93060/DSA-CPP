@@ -135,6 +135,7 @@
 | [0485-max-consecutive-ones](https://github.com/Rahul93060/DSA-CPP/tree/master/0485-max-consecutive-ones) |
 | [0746-min-cost-climbing-stairs](https://github.com/Rahul93060/DSA-CPP/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Rahul93060/DSA-CPP/tree/master/0877-stone-game) |
+| [0905-sort-array-by-parity](https://github.com/Rahul93060/DSA-CPP/tree/master/0905-sort-array-by-parity) |
 | [0941-valid-mountain-array](https://github.com/Rahul93060/DSA-CPP/tree/master/0941-valid-mountain-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Rahul93060/DSA-CPP/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1089-duplicate-zeros](https://github.com/Rahul93060/DSA-CPP/tree/master/1089-duplicate-zeros) |
@@ -181,6 +182,7 @@
 | [0268-missing-number](https://github.com/Rahul93060/DSA-CPP/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Rahul93060/DSA-CPP/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rahul93060/DSA-CPP/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0905-sort-array-by-parity](https://github.com/Rahul93060/DSA-CPP/tree/master/0905-sort-array-by-parity) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Rahul93060/DSA-CPP/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1859-sorting-the-sentence](https://github.com/Rahul93060/DSA-CPP/tree/master/1859-sorting-the-sentence) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Rahul93060/DSA-CPP/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -256,6 +258,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/Rahul93060/DSA-CPP/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Rahul93060/DSA-CPP/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rahul93060/DSA-CPP/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0905-sort-array-by-parity](https://github.com/Rahul93060/DSA-CPP/tree/master/0905-sort-array-by-parity) |
 | [1089-duplicate-zeros](https://github.com/Rahul93060/DSA-CPP/tree/master/1089-duplicate-zeros) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Rahul93060/DSA-CPP/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Binary Search Tree
