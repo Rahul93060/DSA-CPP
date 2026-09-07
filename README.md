@@ -138,6 +138,7 @@
 | [0905-sort-array-by-parity](https://github.com/Rahul93060/DSA-CPP/tree/master/0905-sort-array-by-parity) |
 | [0941-valid-mountain-array](https://github.com/Rahul93060/DSA-CPP/tree/master/0941-valid-mountain-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Rahul93060/DSA-CPP/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1051-height-checker](https://github.com/Rahul93060/DSA-CPP/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/Rahul93060/DSA-CPP/tree/master/1089-duplicate-zeros) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Rahul93060/DSA-CPP/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Rahul93060/DSA-CPP/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -183,6 +184,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Rahul93060/DSA-CPP/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rahul93060/DSA-CPP/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0905-sort-array-by-parity](https://github.com/Rahul93060/DSA-CPP/tree/master/0905-sort-array-by-parity) |
+| [1051-height-checker](https://github.com/Rahul93060/DSA-CPP/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Rahul93060/DSA-CPP/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1859-sorting-the-sentence](https://github.com/Rahul93060/DSA-CPP/tree/master/1859-sorting-the-sentence) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Rahul93060/DSA-CPP/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -300,6 +302,7 @@
 ## Bubble Sort
 |  |
 | ------- |
+| [1051-height-checker](https://github.com/Rahul93060/DSA-CPP/tree/master/1051-height-checker) |
 | [1859-sorting-the-sentence](https://github.com/Rahul93060/DSA-CPP/tree/master/1859-sorting-the-sentence) |
 ## Z Algorithm
 |  |
@@ -320,4 +323,8 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Rahul93060/DSA-CPP/tree/master/0036-valid-sudoku) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/Rahul93060/DSA-CPP/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
