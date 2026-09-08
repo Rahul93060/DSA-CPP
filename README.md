@@ -208,6 +208,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Rahul93060/DSA-CPP/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Rahul93060/DSA-CPP/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Rahul93060/DSA-CPP/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3870-count-commas-in-range](https://github.com/Rahul93060/DSA-CPP/tree/master/3870-count-commas-in-range) |
 ## Simulation
 |  |
 | ------- |
