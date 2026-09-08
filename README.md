@@ -132,6 +132,7 @@
 | [0322-coin-change](https://github.com/Rahul93060/DSA-CPP/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/Rahul93060/DSA-CPP/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rahul93060/DSA-CPP/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/Rahul93060/DSA-CPP/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Rahul93060/DSA-CPP/tree/master/0485-max-consecutive-ones) |
 | [0746-min-cost-climbing-stairs](https://github.com/Rahul93060/DSA-CPP/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Rahul93060/DSA-CPP/tree/master/0877-stone-game) |
@@ -183,6 +184,7 @@
 | [0268-missing-number](https://github.com/Rahul93060/DSA-CPP/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Rahul93060/DSA-CPP/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rahul93060/DSA-CPP/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/Rahul93060/DSA-CPP/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/Rahul93060/DSA-CPP/tree/master/0905-sort-array-by-parity) |
 | [1051-height-checker](https://github.com/Rahul93060/DSA-CPP/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Rahul93060/DSA-CPP/tree/master/1346-check-if-n-and-its-double-exist) |
