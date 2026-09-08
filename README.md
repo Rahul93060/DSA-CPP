@@ -135,6 +135,7 @@
 | [0414-third-maximum-number](https://github.com/Rahul93060/DSA-CPP/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rahul93060/DSA-CPP/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Rahul93060/DSA-CPP/tree/master/0485-max-consecutive-ones) |
+| [0724-find-pivot-index](https://github.com/Rahul93060/DSA-CPP/tree/master/0724-find-pivot-index) |
 | [0746-min-cost-climbing-stairs](https://github.com/Rahul93060/DSA-CPP/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Rahul93060/DSA-CPP/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/Rahul93060/DSA-CPP/tree/master/0905-sort-array-by-parity) |
@@ -256,6 +257,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Rahul93060/DSA-CPP/tree/master/0209-minimum-size-subarray-sum) |
+| [0724-find-pivot-index](https://github.com/Rahul93060/DSA-CPP/tree/master/0724-find-pivot-index) |
 ## Two Pointers
 |  |
 | ------- |
