@@ -137,6 +137,7 @@
 | [0485-max-consecutive-ones](https://github.com/Rahul93060/DSA-CPP/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/Rahul93060/DSA-CPP/tree/master/0724-find-pivot-index) |
 | [0746-min-cost-climbing-stairs](https://github.com/Rahul93060/DSA-CPP/tree/master/0746-min-cost-climbing-stairs) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/Rahul93060/DSA-CPP/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0877-stone-game](https://github.com/Rahul93060/DSA-CPP/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/Rahul93060/DSA-CPP/tree/master/0905-sort-array-by-parity) |
 | [0941-valid-mountain-array](https://github.com/Rahul93060/DSA-CPP/tree/master/0941-valid-mountain-array) |
@@ -188,6 +189,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Rahul93060/DSA-CPP/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rahul93060/DSA-CPP/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Rahul93060/DSA-CPP/tree/master/0414-third-maximum-number) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/Rahul93060/DSA-CPP/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/Rahul93060/DSA-CPP/tree/master/0905-sort-array-by-parity) |
 | [1051-height-checker](https://github.com/Rahul93060/DSA-CPP/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Rahul93060/DSA-CPP/tree/master/1346-check-if-n-and-its-double-exist) |
