@@ -4,8 +4,8 @@ public:
         sort(nums.begin(),nums.end());
         int sum=0;
         for(int i=0;i<nums.size();i=i+2){
-            int mine=min(nums[i],nums[i+1]);
-            sum+=mine;
+            
+            sum+=nums[i];
         }
         return sum;
     }
