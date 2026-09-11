@@ -156,6 +156,7 @@
 | [2057-smallest-index-with-equal-value](https://github.com/Rahul93060/DSA-CPP/tree/master/2057-smallest-index-with-equal-value) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Rahul93060/DSA-CPP/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Rahul93060/DSA-CPP/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Rahul93060/DSA-CPP/tree/master/3483-unique-3-digit-even-numbers) |
 ## Binary Search
 |  |
 | ------- |
@@ -186,6 +187,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rahul93060/DSA-CPP/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Rahul93060/DSA-CPP/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Rahul93060/DSA-CPP/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Rahul93060/DSA-CPP/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sorting
 |  |
 | ------- |
@@ -236,6 +238,7 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Rahul93060/DSA-CPP/tree/master/0206-reverse-linked-list) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Rahul93060/DSA-CPP/tree/master/3483-unique-3-digit-even-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -318,6 +321,7 @@
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Rahul93060/DSA-CPP/tree/master/1291-sequential-digits) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Rahul93060/DSA-CPP/tree/master/3483-unique-3-digit-even-numbers) |
 ## Bubble Sort
 |  |
 | ------- |
