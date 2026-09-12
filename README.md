@@ -118,6 +118,7 @@
 | [0035-search-insert-position](https://github.com/Rahul93060/DSA-CPP/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Rahul93060/DSA-CPP/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/Rahul93060/DSA-CPP/tree/master/0045-jump-game-ii) |
+| [0054-spiral-matrix](https://github.com/Rahul93060/DSA-CPP/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Rahul93060/DSA-CPP/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Rahul93060/DSA-CPP/tree/master/0066-plus-one) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Rahul93060/DSA-CPP/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -227,6 +228,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Rahul93060/DSA-CPP/tree/master/0054-spiral-matrix) |
 | [0415-add-strings](https://github.com/Rahul93060/DSA-CPP/tree/master/0415-add-strings) |
 | [2390-removing-stars-from-a-string](https://github.com/Rahul93060/DSA-CPP/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Rahul93060/DSA-CPP/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -346,6 +348,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Rahul93060/DSA-CPP/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/Rahul93060/DSA-CPP/tree/master/0054-spiral-matrix) |
 ## Counting Sort
 |  |
 | ------- |
