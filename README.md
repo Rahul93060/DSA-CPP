@@ -139,6 +139,7 @@
 | [0414-third-maximum-number](https://github.com/Rahul93060/DSA-CPP/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rahul93060/DSA-CPP/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Rahul93060/DSA-CPP/tree/master/0485-max-consecutive-ones) |
+| [0498-diagonal-traverse](https://github.com/Rahul93060/DSA-CPP/tree/master/0498-diagonal-traverse) |
 | [0561-array-partition](https://github.com/Rahul93060/DSA-CPP/tree/master/0561-array-partition) |
 | [0724-find-pivot-index](https://github.com/Rahul93060/DSA-CPP/tree/master/0724-find-pivot-index) |
 | [0746-min-cost-climbing-stairs](https://github.com/Rahul93060/DSA-CPP/tree/master/0746-min-cost-climbing-stairs) |
@@ -230,6 +231,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Rahul93060/DSA-CPP/tree/master/0054-spiral-matrix) |
 | [0415-add-strings](https://github.com/Rahul93060/DSA-CPP/tree/master/0415-add-strings) |
+| [0498-diagonal-traverse](https://github.com/Rahul93060/DSA-CPP/tree/master/0498-diagonal-traverse) |
 | [2390-removing-stars-from-a-string](https://github.com/Rahul93060/DSA-CPP/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Rahul93060/DSA-CPP/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Linked List
@@ -349,6 +351,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/Rahul93060/DSA-CPP/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/Rahul93060/DSA-CPP/tree/master/0054-spiral-matrix) |
+| [0498-diagonal-traverse](https://github.com/Rahul93060/DSA-CPP/tree/master/0498-diagonal-traverse) |
 ## Counting Sort
 |  |
 | ------- |
