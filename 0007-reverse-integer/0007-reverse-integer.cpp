@@ -1,14 +1,20 @@
 class Solution {
 public:
     int reverse(int x) {
-        long long rev = 0; // use long long to detect overflow
-        while (x != 0) {
-            int digit = x % 10;
-            rev = rev * 10 + digit;
-            x /= 10;
-            if (rev > INT_MAX || rev < INT_MIN)  // check overflow
+        int a= x;
+        long long ans=0;
+        while(a != 0){
+            int b= a%10;
+            
+            ans = ans* 10 +b;
+            a=a/10;
+            if(ans> INT_MAX || ans< INT_MIN){
                 return 0;
+            }
         }
-        return (int)rev;
+        
+        
+        return ans;
+
     }
 };
