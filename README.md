@@ -382,6 +382,7 @@
 | [0584-find-customer-referee](https://github.com/Rahul93060/DSA-CPP/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Rahul93060/DSA-CPP/tree/master/0595-big-countries) |
 | [1068-product-sales-analysis-i](https://github.com/Rahul93060/DSA-CPP/tree/master/1068-product-sales-analysis-i) |
+| [1075-project-employees-i](https://github.com/Rahul93060/DSA-CPP/tree/master/1075-project-employees-i) |
 | [1148-article-views-i](https://github.com/Rahul93060/DSA-CPP/tree/master/1148-article-views-i) |
 | [1251-average-selling-price](https://github.com/Rahul93060/DSA-CPP/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/Rahul93060/DSA-CPP/tree/master/1280-students-and-examinations) |
