@@ -91,6 +91,7 @@
 | [0014-longest-common-prefix](https://github.com/Rahul93060/DSA-CPP/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rahul93060/DSA-CPP/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Rahul93060/DSA-CPP/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/Rahul93060/DSA-CPP/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Rahul93060/DSA-CPP/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Rahul93060/DSA-CPP/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Rahul93060/DSA-CPP/tree/master/0345-reverse-vowels-of-a-string) |
@@ -293,6 +294,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rahul93060/DSA-CPP/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Rahul93060/DSA-CPP/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/Rahul93060/DSA-CPP/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/Rahul93060/DSA-CPP/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rahul93060/DSA-CPP/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/Rahul93060/DSA-CPP/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Rahul93060/DSA-CPP/tree/master/0345-reverse-vowels-of-a-string) |
